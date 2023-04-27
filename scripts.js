@@ -16,7 +16,7 @@
 (function()
 {
    console.log("Data")
- const num = 4;
+ const num = 5;
 
  //check if the number is even using if else statement
 if(num % 2 == 0) 
@@ -33,4 +33,20 @@ const results = (num % 2==0) ? "even":"add";
 
 console.log(results);
 
+})();
+
+//3.Convert all the strings to title caps in a string array.
+
+
+(function()
+{
+
+ let abc = "i am from guivi learner"
+ let  words = abc.split(" ");
+ for(let i =0;i<words.length;i++)
+ {
+    words[i] = words[i].charAt(0).toUpperCase() + words[i].substring(1); 
+   // console.log(words[i])
+ }
+ console.log(words)
 })();
