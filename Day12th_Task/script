@@ -1,0 +1,5 @@
+.aboutus{
+
+    background-color: #333333;
+    padding: 30px,40px;
+}

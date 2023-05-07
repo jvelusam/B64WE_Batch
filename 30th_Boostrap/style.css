@@ -1,0 +1,36 @@
+body{
+    overflow-x: hidden;
+}
+
+.carousel-inner{
+
+    height: 100vh;
+}
+.red{
+
+height: 200px;
+background-color: red;
+}
+.green{
+
+    height: 200px;
+    background-color: green;
+}
+
+.aboutus{
+
+    background-color: #333333;
+    padding: 30px,40px;
+}
+.certifications{
+text-align:center;
+display:flex;
+justify-content: center;
+align-items: center;
+padding: 30px 40px;
+
+}
+.form-section{
+
+    padding: 30px 40px;
+}
