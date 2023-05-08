@@ -16,11 +16,21 @@ padding: 30px 40px;
 }
 
 .poems{
- background-color: #333333;
-    text-align:center;
+ background-color: white;
+text-align:center;
 display:flex;
 justify-content: center;
 align-items: center;
 padding: 30px 40px;
 
+}
+
+.foot-socials{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 40px;
+    background-color: darkcyan;
+    height: 40vh;
+    display: flex;
 }
